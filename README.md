@@ -79,7 +79,7 @@ All geographic names are representative and do not correspond to real branch loc
 
 ### Q4. How can revenue from the bottom 10 customers be improved?
 
-**SQL File:** [View SQL Script](sql/04_bottom10_analysis.sql)
+**SQL File:** [View SQL Script](sql/04_bottom10_customers.sql) 
 
 **Insight:** Our analysis of the bottom 10 customers, including individuals like Eric Murdock and Nicole Fjeld, shows that these accounts are not only low-revenue but often unprofitable. This is largely due to the high shipping costs of small, low-value orders (e.g., paper, pens, and rubber bands), which frequently exceed the profit from the sale.
 
