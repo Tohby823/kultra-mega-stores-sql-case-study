@@ -93,7 +93,7 @@ All geographic names are representative and do not correspond to real branch loc
 
 ### Q5. Which shipping method incurred the highest cost?
 
-**SQL File:** [View SQL Script](sql/05_shipping_cost_analysis.sql)
+**SQL File:** [View SQL Script](sql/05_shipping_cost.sql)
 
 **Insight:** Delivery Truck was the most expensive shipping method, accounting for a total cost of $51,971.94, indicating it may be a key driver of overall logistics expenses.
 
@@ -109,7 +109,7 @@ All geographic names are representative and do not correspond to real branch loc
 
 ### Q7. Which small business customer had the highest sales?
 
-**SQL File:** [View SQL Script](sql/07_top_small_business.sql)
+**SQL File:** [View SQL Script](sql/07_top_small_business_customer.sql)
 
 **Insight:** Among small business customers, Dennis Kane generated the highest sales, contributing a total of $75,967.59, making him a key revenue contributor within that segment.
 
@@ -117,7 +117,7 @@ All geographic names are representative and do not correspond to real branch loc
 
 ### Q8. Which corporate customer placed the most orders?
 
-**SQL File:** [View SQL Script](sql/08_top_corporate_orders.sql)
+**SQL File:** [View SQL Script](sql/08_top_corporate_customer_orders.sql)
 
 **Insight:** Roy Skaria stands out as the most loyal corporate customer, having placed a total of 773 orders, indicating a high level of engagement and repeat business.
 
@@ -133,7 +133,7 @@ All geographic names are representative and do not correspond to real branch loc
 
 ### Q10. Which customers returned items?
 
-**SQL File:** [View SQL Script](sql/10_returns_analysis.sql)
+**SQL File:** [View SQL Script](sql/10_returns_segment.sql)
 
 **Insight:** Out of 573 total customer returns, the Corporate segment accounted for the highest share (215), while the Consumer segment had the lowest (98). Returns from the Home Office and Small Business segments stood at 139 and 121 respectively, indicating that returns were more concentrated among business-oriented customers.
 
