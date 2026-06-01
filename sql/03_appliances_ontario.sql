@@ -1,4 +1,4 @@
--- Question 1
+-- Question 3
 -- What were the total sales of appliances in Ontario?
 
 SELECT
